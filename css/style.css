@@ -20,7 +20,7 @@ body a{
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0; 
-	font-family: 'Lato', cursive;
+	font-family: 'Torchut', cursive;
 }
 p{
 	margin:0;
@@ -382,13 +382,13 @@ p {
     margin-top: 4em;
 	text-align: center;
 }
-.w3stitle {
+h3.w3stitle {
     font-size: 3em;
     color: #bb3756;
     text-align: center;
 	text-transform: uppercase;
 }
-.w3stitle span {
+h3.w3stitle span {
     font-weight: 900;
     color: #a22c48;
 }
